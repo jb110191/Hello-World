@@ -1,0 +1,1 @@
+Création d'un programme qui affiche du texte dans une console.
